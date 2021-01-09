@@ -178,6 +178,13 @@ main {
 
 .loading {
     text-align: center;
+    background-color: var(--clr-grey-10);
+    display: flex;
+    justify-content: center;
+    align-items: right;
+    position: right;
+    max-width: var(--fixed-width);
+    height: 100%;
 }
 
 .title {
